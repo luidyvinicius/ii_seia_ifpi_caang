@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ii_seia.iml" filepath="$PROJECT_DIR$/ii_seia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/ii_seia_android.iml" filepath="$PROJECT_DIR$/android/ii_seia_android.iml" />
+    </modules>
+  </component>
+</project>
